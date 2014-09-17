@@ -313,7 +313,8 @@ a.button:hover {
   padding: 15px 20px;
   float: left;
   font-size: 18px;
-  font-family: proximanovasemibold;
+  font-family: "Open Sans";
+	font-weight: 600;
   text-align: center;
   text-decoration: none;
   color: #000000;
@@ -509,7 +510,8 @@ h4,
 h5,
 h6 {
   margin: 0;
-  font-family: proximanovasemibold;
+	font-family: "Open Sans";
+	font-weight: 600;
 }
 h1 {
   font-size: 27px;
@@ -851,7 +853,8 @@ body.layout-boxed-lg #page {
 .box .box-heading {
   background: #fdfdfd;
   font-size: 23px;
-  font-family: proximanovasemibold;
+	font-family: "Open Sans";
+	font-weight: 600;
   border-bottom: 1px solid #f2f5f8;
   -webkit-border-radius: 4px 4px 0 0;
   -moz-border-radius: 4px 4px 0 0;
@@ -1598,8 +1601,7 @@ body.layout-boxed-lg #page {
   text-decoration: none;
   display: block;
   margin-bottom: 12px;
-  font-family: proximanovalight;
-  font-weight: bold;
+	font-family: "Open Sans";
 }
 .product-block .image {
   display: block;
@@ -1676,7 +1678,8 @@ body.layout-boxed-lg #page {
   color: #57a6b9;
   font-size: 19px;
   margin-bottom: 15px;
-  font-family: proximanovalight;
+	font-family: "Open Sans";
+	font-weight: 300;
   font-size: 18px;
 }
 .product-block .price .price-tax {
@@ -2951,12 +2954,14 @@ ul.box-filter span {
 h4.media-heading {
   text-transform: uppercase;
   font-size: 21px;
-  font-family: proximanovalight;
+	font-family: "Open Sans";
+	font-weight: 300;
 }
 h3.media-heading {
   text-transform: none;
   font-size: 23px;
-  font-family: proximanovasemibold;
+	font-family: "Open Sans";
+	font-weight: 600;
 }
 .media .readmore a {
   color: #57a6b9;

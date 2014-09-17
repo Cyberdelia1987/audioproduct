@@ -31,7 +31,7 @@
 
 	$helper->addCss( 'catalog/view/theme/'.$themeName.'/stylesheet/animation.css' );
 	$helper->addCss( 'catalog/view/theme/'.$themeName.'/stylesheet/font-awesome.min.css' );
-	$helper->addCss( 'catalog/view/theme/'.$themeName.'/stylesheet/font.css' );
+	$helper->addCss( 'catalog/view/theme/'.$themeName.'/stylesheet/open-sans.css' );
 	$helper->addCssList( $styles );
 	$layoutMode = $helper->getParam( 'layout' );
 
